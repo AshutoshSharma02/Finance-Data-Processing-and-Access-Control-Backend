@@ -86,11 +86,3 @@ Get totals, category breakdowns, and recent activity.
 ```
 
 ---
-
-## 🛡️ Role-Based Access Table
-
-| Feature | Admin | Analyst | Viewer |
-| :--- | :---: | :---: | :---: |
-| View Records | ✅ | ✅ | ✅ |
-| Create/Edit/Delete | ✅ | ❌ | ❌ |
-| Dashboard Access | ✅ | ✅ | ❌ |
